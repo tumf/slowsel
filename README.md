@@ -1,4 +1,6 @@
-> cp config.json.in config.json
-> vi config.json
-> npm install
-> node index.js
+```
+cp config.json.in config.json
+vi config.json
+npm install
+node index.js
+```
